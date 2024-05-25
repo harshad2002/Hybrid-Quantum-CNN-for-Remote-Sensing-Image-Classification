@@ -1,0 +1,1 @@
+# Hybrid-Quantum-CNN-for-Remote-Sensing-Image-Classification
